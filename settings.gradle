@@ -1,0 +1,3 @@
+rootProject.name='SharedPreferencesPro'
+include ':app', ':preferencesproviderlibrary'
+include ':androidsharedpreferences'
